@@ -1,6 +1,6 @@
 This is a blog project created with ReactJS.
 
-The database file is located inside db/db.json and the server is http://localhost:8000
+The database file is located inside db/db.json and the server is http://localhost:8000/posts
 
 The user can only read blog post if the user is not logged in.
 
