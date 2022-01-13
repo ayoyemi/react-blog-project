@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+/src/bbb
+/src/components/playground
 /.pnp
 .pnp.js
 
